@@ -1,0 +1,6 @@
+framework module Pods_CTSCodingTest {
+  umbrella header "Pods-CTSCodingTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
